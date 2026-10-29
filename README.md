@@ -19,7 +19,7 @@ Tremolo audio plugin project used for the [Official JUCE Audio Plugin Developmen
 
 ## ✨ Features
 
-* Preconfigured plugin formats:
+* Preconfigured plugin formats supported:
   * AU
   * VST3
   * Standalone
